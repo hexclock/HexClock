@@ -8,3 +8,5 @@ Check out the original [here](http://www.jacopocolo.com/hexclock/)
 Ultimate goal is to get this tweetable, 8 characters left.
 
 The repo contains a history of previous attempts to document our progression.
+
+Rules are that we have to keep it just as the original is, minus the weird centreing. 
