@@ -10,3 +10,5 @@ Ultimate goal is to get this tweetable, 8 characters left.
 The repo contains a history of previous attempts to document our progression.
 
 Rules are that we have to keep it just as the original is, minus the weird centreing. 
+
+Update: Recently it seems that the clock breaks in Chrome, need to look into why this is.
