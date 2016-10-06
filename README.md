@@ -1,5 +1,7 @@
 # HexClock
 
+[![Build Status](https://travis-ci.org/hexclock/HexClock.svg?branch=ci)](https://travis-ci.org/hexclock/HexClock)
+
 A clock that displays the current time and the colour represented in hex by those digits.
 Check out the original [here](http://www.jacopocolo.com/hexclock/)
 
