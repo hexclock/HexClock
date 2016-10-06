@@ -1,0 +1,10 @@
+language: ruby
+install:
+- gem install percy-cli
+
+# Prepend JS to provide constant date for visual diffs
+before_script:
+- mkdir test && cp ./*.html test/
+- for i in test/*.html; do echo -e "<script>var Date = function() { return 'Thu Oct 06 2016 23:24:15 GMT+0100 (BST)'; }</script>\n$(cat $i)" > $i; done
+
+script: percy snapshot ./test/ --snapshot_limit 1 --enable_javascript
