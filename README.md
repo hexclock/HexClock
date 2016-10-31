@@ -11,4 +11,4 @@ The rules are that we have to keep it just as the original is, minus the weird c
 
 At the moment OSX users will have to install Lato to maintain compatability.
 
-The current best effort is available [here](https://hexclock.github.io/HexClock/145.html)
+The current best effort is available [here](https://hexclock.github.io/HexClock/143.html)
